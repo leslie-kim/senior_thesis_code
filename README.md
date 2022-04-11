@@ -11,3 +11,12 @@ All code used for senior thesis
 -- make_embeddings.py -- contains both the code used to train the word embeddings and also perform analysis on them
 
 -- nyt_developer_api.py -- contains various helper functions I used to help me understand how to use the NYT developer API
+
+
+
+All datasets used for senior thesis 
+
+-- links_only -- contains links used for scraping
+-- data -- contains raw data from all scraped articles 
+-- cleaned -- contains "cleaned" dataset (detailed in paper)
+-- processed -- contains "processed" dataset (detailed in paper) 
