@@ -14,9 +14,14 @@ All code used for senior thesis
 
 
 
+
+
 All datasets used for senior thesis 
 
 -- links_only -- contains links used for scraping
+
 -- data -- contains raw data from all scraped articles 
+
 -- cleaned -- contains "cleaned" dataset (detailed in paper)
+
 -- processed -- contains "processed" dataset (detailed in paper) 
